@@ -1,1 +1,6 @@
 # digital-writing-folio
+https://collection.eliterature.org/1/works/wittig__the_fall_of_the_site_of_marsha/index.html
+https://nickm.com/taroko_gorge/whisper_wire/
+What aspects are the same? The rate at which new lines appear, the structure, the allignment of text
+What aspects are different? The subject, the colours, Whisper Wire has a .gif and a .jpeg in the background, Whisper Wire's text hits the bottom of the page while Taroko Gorge's will only reach halfway
+Is the remix successful? Yes! The images in the background help to orient the reader's understanding. The idea of amplifier schematics lends itself to the visual experience of watching words change places inside of randomly iterated sentences; word nodes move and the whole current of meaning shifts. The text hitting the bottom of the page may or may not be intentional, but I like it because it reminds you of the limit of the page, and that this is an electronic piece (which is fitting because the text's subject is electronic equipment).
